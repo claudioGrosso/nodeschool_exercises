@@ -7,7 +7,8 @@ https://nodeschool.io
 ## How does it work
 
 Simply, type in the command line:
-> npm install -g *module* <
+> npm install -g *module* 
+
 and run it!
 
 ## Modules completed
