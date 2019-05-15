@@ -1,6 +1,6 @@
 # nodeschool_exercises
 
-Various exercises from nodeschool.io open source project
+Various exercises from nodeschool.io (open source project).
 Here the link to the official website:
 https://nodeschool.io
 
