@@ -6,9 +6,9 @@ https://nodeschool.io
 
 ## How does it work
 
-Simply, type 
-> npm install -g *module* 
-and run it from the command line.
+Simply, type in the command line:
+> npm install -g *module* <
+and run it!
 
 ## Modules completed
 - learnyounode
